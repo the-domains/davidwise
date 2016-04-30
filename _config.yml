@@ -1,7 +1,7 @@
 name: DavidWise
 favicon: null
-layout_spectrum: 0.304230400826782
-typography_spectrum: 0.4822284358087927
+layout_spectrum: 0.67839
+typography_spectrum: 0.84289
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5736004307400435
+  brandStrength: 0.75
   lightness: 0.016968408366665244
   saturation: 0.08677026629447937
-  rhythmicContrast: 0.3140643541701138
+  rhythmicContrast: 0.5
 purpose: []
