@@ -1,0 +1,28 @@
+name: DavidWise
+favicon: null
+layout_spectrum: 0.304230400826782
+typography_spectrum: 0.4822284358087927
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5736004307400435
+  lightness: 0.016968408366665244
+  saturation: 0.08677026629447937
+  rhythmicContrast: 0.3140643541701138
+purpose: []
